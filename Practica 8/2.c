@@ -2,6 +2,7 @@
 
 int main(){
 	
+	
 	char palabra1[100];
 	char palabra2[100];
 	int i,max;

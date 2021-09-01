@@ -2,6 +2,7 @@
 #include <string.h>
 void main(){
 	
+	
 	char palabra[20] ;
 	int i;
 	
